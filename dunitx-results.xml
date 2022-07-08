@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="D:\Projets\Exercism\delphi\series\Series.exe" total="10" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2022-03-01" time="0.003">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="Series.exe" executed="true" result="Success" success="True" time="0.003" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uSeriesTests" executed="true" result="Success" success="True" time="0.003" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TSeriesTest" executed="True" result="Success" success="True" time="0.003" >
+                <results>
+                  <test-case name="slices_of_one_from_one" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="slices_of_one_from_two" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="slices_of_two" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="slices_of_two_overlap" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="slices_can_include_duplicates" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="slices_of_a_long_series" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="slice_length_is_too_large" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="slice_length_cannot_be_zero" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="slice_length_cannot_be_negative" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="empty_series_is_invalid" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>
